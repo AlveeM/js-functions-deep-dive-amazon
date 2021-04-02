@@ -33,5 +33,9 @@ function addBy1(num) {
   return num + 1;
 }
 
+function multBy10(num) {
+  return num * 10;
+}
+
 console.log(operationToElements(inputArray, addBy1));
 console.log(operationToElements(inputArray, mulBy10));
