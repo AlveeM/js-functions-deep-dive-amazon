@@ -33,7 +33,7 @@ function addBy1(num) {
   return num + 1;
 }
 
-function multBy10(num) {
+function mulBy10(num) {
   return num * 10;
 }
 
