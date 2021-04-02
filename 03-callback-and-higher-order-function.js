@@ -19,8 +19,6 @@ const inputArray = [1, 2, 3];
 //   return resultArray;
 // }
 
-const inputArray = [1, 2, 3];
-
 function operationToElements(array, myFunc) {
   const resultArray = [];
   for (let i = 0; i < array.length; i++) {
